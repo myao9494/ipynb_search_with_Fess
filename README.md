@@ -1,0 +1,2 @@
+# ipynb_search_with_Fess
+jupyterの全文検索を目指す
